@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+    xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Sciences du Numérique - Académie de Reims</title>
+        <link>https://ac-reims.moodle.monbureaunumerique.fr/course/view.php?id=537</link>
+        <description>Site académique pour SNT et NSI</description>
+        <lastBuildDate>17 Jun 2020 17:10:00 +0100</lastBuildDate>
+        <item>
+            <title>SUJETS E3C NSI</title>
+            <link>https://ac-reims.moodle.monbureaunumerique.fr/course/view.php?id=537</link>
+            <pubDate>24 Apr 2020 17:10:00 +0100</pubDate>
+            <author>michael-lionel.balandier@ac-reims.fr (Michael Balandier)</author>
+            <description>Les sujets destinés aux élèves ne poursuivant pas la spécialité NSI en terminale sont ouverts :
+http://quandjepasselebac.education.fr/e3c/#BNS%2FBac%20G%C3%A9n%C3%A9ral%2FEnseignements%20de%20sp%C3%A9cialit%C3%A9%2FSp%C3%A9cialit%C3%A9%20num%C3%A9rique%20et%20sciences%20informatiques%2Fe3c-2
+
+Il vous est possible de les utiliser avec vos élèves. Attention, tout sujet utilisé avec vos élèves en classe ne pourra être utilisé lors des épreuves d'E3C (ceci peut concerner des élèves qui redoubleraient leur classe de première).</description>
+        </item>
+        <item>
+            <title>FORMATION SIF</title>
+            <link>https://ac-reims.moodle.monbureaunumerique.fr/course/view.php?id=537</link>
+            <pubDate>24 Apr 2020 17:10:00 +0100</pubDate>
+            <author>michael-lionel.balandier@ac-reims.fr (Michael Balandier)</author>
+            <description>La société informatique de France SIF propose une journée de formation sur la spécialité NSI découpée en 4 visioconférences le mercredi de 14h à 15h30 à partir du 27 mai tous les 15 jours.
+
+Quatre thèmes seront abordés durant ces visioconférences :
+
+    Genèse de NSI (réforme du lycée et naissance d'une nouvelle discipline)
+    Mise en place de NSI (programmes et formation des enseignants)
+    Enseignement de NSI (retour d'expériences et orientation des élèves)
+    Après NSI (nécessaire adaptation des formations post-bac)
+Le programme complet ainsi que le formulaire d'inscription sont accessibles par https://www.societe-informatique-de-france.fr/les-journees-sif/la-specialite-nsi-et-les-formations-post-bac/
+Ces conférences vous concernent directement si vous assurez (ou allez assurer) l'enseignement de NSI.</description>
+        </item>
+        <item>
+            <title>BAC ISN 2020</title>
+            <link>https://ac-reims.moodle.monbureaunumerique.fr/course/view.php?id=537</link>
+            <pubDate>24 Apr 2020 17:10:00 +0100</pubDate>
+            <author>michael-lionel.balandier@ac-reims.fr (Michael Balandier)</author>
+            <description>Les IPR en charge du suivi d’ISN/NSI vous remercient pour l’important travail accompli pour assurer la continuité pédagogique et vous souhaitent bon courage pour sa poursuite.
+Comme les autres épreuves du baccalauréat, les épreuves de soutenance d’ISN sont annulées et l’évaluation finale se fera par le contrôle continu. À ce jour, nous ne disposons pas de davantage de précisions.
+Pour autant, cela ne veut pas dire l’abandon des projets qu’il est conseillé de poursuivre dans la mesure, bien sûr, où les élèves disposent du matériel nécessaire pour le faire. Cette poursuite doit se faire au profit des élèves ; ainsi dans toute forme d’évaluation, l’idée sera de valoriser le travail des élèves/groupes sans toutefois pénaliser ceux qui ne peuvent poursuivre.</description>
+        </item>
+        <item>
+            <title>PROGRESSER PENDANT LE CONFINEMENT</title>
+            <link>https://ac-reims.moodle.monbureaunumerique.fr/course/view.php?id=537</link>
+            <pubDate>14 Jun 2020 17:10:00 +0100</pubDate>
+            <author>michael-lionel.balandier@ac-reims.fr (Michael Balandier)</author>
+            <description>France-IOI propose un ensemble d'activités pour la SNT.</description>
+        </item>
+        <item>
+            <title>MESSAGE DE L'INSPECTION GÉNÉRALE AUX ENSEIGNANTS DE NSI</title>
+            <link>https://ac-reims.moodle.monbureaunumerique.fr/course/view.php?id=537</link>
+            <pubDate>17 Jun 2020 17:10:00 +0100</pubDate>
+            <author>michael-lionel.balandier@ac-reims.fr (Michael Balandier)</author>
+            <description>Trois leçons concernant NSI ont été tournées et diffusées (dont une aujourd’hui mardi 16/06 à 16h). Deux autres sont prévues.
+
+Ces leçons concernent autant les élèves que vous, leurs professeur.e.s .
+
+Votre opinion sur ces leçons est très importante car la question se pose de poursuivre ou pas ces tournages.
+
+Un questionnaire sur ce sujet, très court et complètement anonyme, se trouve à l’URL : https://dep.adc.education.fr/LS273/index.php/115447?lang=fr
+
+Il sera ouvert jusqu’au vendredi 19/06 minuit.
+
+Lien vers ces vidéos : https://www.lumni.fr/lycee/premiere/specialites/numerique-et-sciences-informatiques</description>
+        </item>
+
+    </channel>
+</rss>
