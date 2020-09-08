@@ -5,7 +5,23 @@
         <title>Sciences du Numérique - Académie de Reims</title>
         <link>https://ac-reims.moodle.monbureaunumerique.fr/course/view.php?id=537</link>
         <description>Site académique pour SNT et NSI</description>
-        <lastBuildDate>29 Aug 2020 15:10:00 +0100</lastBuildDate>
+        <lastBuildDate>8 Sep 2020 15:10:00 +0100</lastBuildDate>
+        <item>
+            <title>NOUVELLES RESSOURCES NSI</title>
+            <link>https://ac-reims.moodle.monbureaunumerique.fr/course/view.php?id=537</link>
+            <pubDate>8 Sep 2020 15:10:00 +0100</pubDate>
+            <author>michael-lionel.balandier@ac-reims.fr (Michael Balandier)</author>
+            <description>EduPython : 
+ La version 3.0 est sortie ce 7/9/2020 http://edupython.tuxfamily.org/ 
+
+Elle met à jour de nombreux modules ce qui devenait absolument nécessaire pour les versions 2.6 et antérieures.
+
+Il intègre aussi toutes les librairies nécessaires à la SNT et NSI ainsi que la possibilité de faire de la 3D temps réelle.
+
+Le wiki : http://edupython.tuxfamily.org/documentation/index.php?title=Accueil
+
+Note : Si au lancement du programme d'installation vous avez l'écran bleu "Windows a protégé votre ordinateur" : c'est normal car c'est un logiciel gratuit téléchargé ailleurs que dans le microsoft store. Cliquez sur le mal nommé "information complémentaire" puis sur le bouton "exécuter quand même".</description>
+        </item>
         <item>
             <title>NOUVELLES RESSOURCES NSI</title>
             <link>https://ac-reims.moodle.monbureaunumerique.fr/course/view.php?id=537</link>
