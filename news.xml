@@ -1,13 +1,64 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" 
+<rss version="2.0"
     xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Sciences du Numérique - Académie de Reims</title>
         <link>https://ac-reims.moodle.monbureaunumerique.fr/course/view.php?id=537</link>
         <description>Site académique pour SNT et NSI</description>
-        <lastBuildDate>8 Sep 2020 15:10:00 +0100</lastBuildDate>
+        <lastBuildDate>29 Nov 2020 15:10:00 +0100</lastBuildDate>
         <item>
-            <title>NOUVELLES RESSOURCES NSI</title>
+            <title>LE VRAI COÛT ÉNERGÉTIQUE DU NUMÉRIQUE</title>
+            <link>https://ac-reims.moodle.monbureaunumerique.fr/course/view.php?id=537</link>
+            <pubDate>29 Nov 2020 15:10:00 +0100</pubDate>
+            <author>michael-lionel.balandier@ac-reims.fr (Michael Balandier)</author>
+            <description>Le magazine Pour la Science, publie ce mois de décembre "Le vrai coût énergétique du numérique".
+
+Un article fourni avec des faits et des chiffres fiables.
+
+Lien vers l'article : https://www.pourlascience.fr/sd/environnement/le-vrai-cout-energetique-du-numerique-20490.php</description>
+        </item>
+        <item>
+            <title>COURS LUMNI NSI</title>
+            <link>https://ac-reims.moodle.monbureaunumerique.fr/course/view.php?id=537</link>
+            <pubDate>12 Nov 2020 15:10:00 +0100</pubDate>
+            <author>michael-lionel.balandier@ac-reims.fr (Michael Balandier)</author>
+            <description>Nous souhaitons porter à votre connaissance la rediffusion de leçons de fin d'année scolaire ainsi que la diffusion de nouvelles leçons.
+
+Vous trouverez ci-dessous les horaires et contenus de ces diffusions :
+
+Jeudi 19 novembre de 14h30 à 15h : Notion de listes en informatique et application aux images numériques (première)
+Vendredi 20 novembre de 15h30 à 16h : Qu’est-ce qu’une base de données relationnelle ? (terminale)
+Jeudi 26 novembre de 14h30 à 15h : Les dictionnaires en Python (première)
+Vendredi 27 novembre de 15h30 à 16h : Interrogation d’une base de données relationnelle (terminale)
+Jeudi 3 décembre de 14h30 à 15h : Les algorithmes de tri (première)
+Vendredi 4 décembre de 15h30 à 16h : Arbres Binaires de Recherche (terminale)
+Jeudi 10 décembre de 14h30 à 15h : Notions de web et d’interface homme-machine (première)
+Vendredi 11 décembre de 15h30 à 16h : Une introduction à la récursivité (terminale)	</description>
+        </item>
+        <item>
+            <title>ÉPREUVE ÉCRITE DE L'ENSEIGNEMENT DE SPÉCIALITÉ</title>
+            <link>https://ac-reims.moodle.monbureaunumerique.fr/course/view.php?id=537</link>
+            <pubDate>07 Nov 2020 15:10:00 +0100</pubDate>
+            <author>michael-lionel.balandier@ac-reims.fr (Michael Balandier)</author>
+            <description>L'inspection générale souhaite vous apporter un éclairage concernant l'épreuve de spécialité NSI à venir.
+
+Le sujet sera composé de cinq exercices. l'élève devra en choisir trois et les traiter.
+
+Le sujet garantit que l'élève pourra choisir les trois exercices en évitant les parties grisées et en se concentrant sur les entrées prépondérantes (cf fichier disponible en cliquant ICI), ce qui peut vous amener à faire évoluer vos progressions.</description>
+        </item>
+        <item>
+            <title>MON LYCÉE NUMÉRIQUE</title>
+            <link>https://ac-reims.moodle.monbureaunumerique.fr/course/view.php?id=537</link>
+            <pubDate>28 Oct 2020 15:10:00 +0100</pubDate>
+            <author>michael-lionel.balandier@ac-reims.fr (Michael Balandier)</author>
+            <description>Voici le site d'un groupe de professeurs de notre académie construit à destination de leurs élèves de NSI : http://monlyceenumerique.fr/index_nsi.html
+
+Vous y trouverez un important ensemble de ressources sous licence Creative Commons. Organisées par parcours, elles peuvent être utiles à tout professeur de NSI en quête d'idées et de contenus.
+
+Merci encore à tous les concepteurs pour leur travail remarquable aussi bien quantitativement que qualitativement.</description>
+        </item>
+        <item>
+            <title>EDUPYTHON</title>
             <link>https://ac-reims.moodle.monbureaunumerique.fr/course/view.php?id=537</link>
             <pubDate>8 Sep 2020 15:10:00 +0100</pubDate>
             <author>michael-lionel.balandier@ac-reims.fr (Michael Balandier)</author>
